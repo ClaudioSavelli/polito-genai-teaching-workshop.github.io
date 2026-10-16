@@ -7,9 +7,10 @@ Static website for the **PoliTO Community Workshop on Generative AI in Universit
 - `index.html` — overview and important dates
 - `workshop.html` — call for papers, topics, and audience
 - `submit.html` — two-stage submission instructions
+- `program.html` — workshop program and schedule announcements
 - `authors.html` — review, presentation, and proceedings
 - `about.html` — scientific committee and contact details
 - `css/custom.css` — responsive visual system
 - `js/site.js` — mobile navigation and current-year footer
 
-Abstract registration will use Microsoft Forms. The form link, full-paper submission platform, exact workshop date/time, and venue are intentionally marked as forthcoming until they are confirmed.
+Abstract registration uses Microsoft Forms. The full-paper submission platform, exact workshop date/time, and venue are intentionally marked as forthcoming until they are confirmed.
