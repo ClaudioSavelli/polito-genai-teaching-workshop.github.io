@@ -65,7 +65,7 @@ ul, ol { margin: 0; }
 .brand { display: flex; color: var(--navy); text-decoration: none; align-items: center; gap: 0.7rem; }
 .brand img { width: 122px; height: auto; }
 .brand img.workshop-logo { width: 52px; height: 52px; object-fit: contain; }
-.brand img.tllab-header-logo { width: 82px; height: auto; object-fit: contain; }
+.brand img.tllab-header-logo { width: 108px; height: auto; object-fit: contain; }
 .brand-copy {
   padding-left: 0.75rem; border-left: 1px solid var(--line); font-size: 0.78rem;
   font-weight: 800; line-height: 1.15; letter-spacing: 0.04em; text-transform: uppercase;
@@ -252,7 +252,7 @@ ul, ol { margin: 0; }
   .brand { gap: 0.55rem; }
   .brand img { width: 82px; }
   .brand img.workshop-logo { width: 38px; height: 38px; }
-  .brand img.tllab-header-logo { width: 60px; }
+  .brand img.tllab-header-logo { width: 72px; }
   .brand-copy { padding-left: 0.65rem; font-size: 0.62rem; }
   .brand-copy small { font-size: 0.58rem; }
   .nav-shell { min-height: 72px; padding: 0 16px; }
